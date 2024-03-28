@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="hello.GreeterTest" time="0.094" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\slim97\code\gs-maven-main\complete\target\test-classes;C:\Users\slim97\code\gs-maven-main\complete\target\classes;C:\Users\slim97\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar;C:\Users\slim97\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\slim97\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\slim97\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Users\slim97\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\slim97\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Users\slim97\.m2\repository\org\hibernate\validator\hibernate-validator\8.0.0.Final\hibernate-validator-8.0.0.Final.jar;C:\Users\slim97\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar;C:\Users\slim97\.m2\repository\org\jboss\logging\jboss-logging\3.4.1.Final\jboss-logging-3.4.1.Final.jar;C:\Users\slim97\.m2\repository\com\fasterxml\classmate\1.5.1\classmate-1.5.1.jar;C:\Users\slim97\.m2\repository\org\glassfish\javax.el\3.0.0\javax.el-3.0.0.jar;C:\Users\slim97\.m2\repository\javax\el\javax.el-api\3.0.0\javax.el-api-3.0.0.jar;"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
+    <property name="user.timezone" value="Asia/Singapore"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="SG"/>
+    <property name="sun.boot.library.path" value="C:\Program Files (x86)\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin"/>
+    <property name="sun.java.command" value="C:\Users\slim97\AppData\Local\Temp\surefire18379860845800141160\surefirebooter-20240328173318952_3.jar C:\Users\slim97\AppData\Local\Temp\surefire18379860845800141160 2024-03-28T17-33-18_528-jvmRun1 surefire-20240328173318952_1tmp surefire_0-20240328173318952_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\slim97\code\gs-maven-main\complete\target\test-classes;C:\Users\slim97\code\gs-maven-main\complete\target\classes;C:\Users\slim97\.m2\repository\joda-time\joda-time\2.9.2\joda-time-2.9.2.jar;C:\Users\slim97\.m2\repository\junit\junit\4.12\junit-4.12.jar;C:\Users\slim97\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\slim97\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.9.8\jackson-databind-2.9.8.jar;C:\Users\slim97\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.9.0\jackson-annotations-2.9.0.jar;C:\Users\slim97\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.9.8\jackson-core-2.9.8.jar;C:\Users\slim97\.m2\repository\org\hibernate\validator\hibernate-validator\8.0.0.Final\hibernate-validator-8.0.0.Final.jar;C:\Users\slim97\.m2\repository\jakarta\validation\jakarta.validation-api\3.0.2\jakarta.validation-api-3.0.2.jar;C:\Users\slim97\.m2\repository\org\jboss\logging\jboss-logging\3.4.1.Final\jboss-logging-3.4.1.Final.jar;C:\Users\slim97\.m2\repository\com\fasterxml\classmate\1.5.1\classmate-1.5.1.jar;C:\Users\slim97\.m2\repository\org\glassfish\javax.el\3.0.0\javax.el-3.0.0.jar;C:\Users\slim97\.m2\repository\javax\el\javax.el-api\3.0.0\javax.el-api-3.0.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\slim97"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.home" value="C:\Program Files (x86)\Eclipse Adoptium\jdk-17.0.9.9-hotspot"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\slim97\code\gs-maven-main\complete"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\slim97\AppData\Local\Temp\surefire18379860845800141160\surefirebooter-20240328173318952_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="java.runtime.version" value="17.0.9+9"/>
+    <property name="user.name" value="slim97"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK Client VM"/>
+    <property name="java.vendor.version" value="Temurin-17.0.9+9"/>
+    <property name="localRepository" value="C:\Users\slim97\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\slim97\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.9"/>
+    <property name="user.dir" value="C:\Users\slim97\code\gs-maven-main\complete"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files (x86)\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\app\slim97\product\21c\dbhomeXE\bin;C:\Program Files (x86)\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin;C:\Program Files (x86)\Eclipse Adoptium\jdk-11.0.21.9-hotspot\bin;C:\Program Files\Eclipse Adoptium\jdk-21.0.1.12-hotspot\bin;C:\Program Files (x86)\Eclipse Adoptium\jdk-8.0.392.8-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Symantec\VIP Access Client\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\1E\Client\Extensibility\NomadBranch;C:\Program Files\PuTTY\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Symantec\VIP Access Client\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files\nodejs\;C:\Users\slim97\AppData\Roaming\npm;C:\Users\{username}\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\slim97\AppData\Local\Programs\Python\Python311\;C:\Users\slim97\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\slim97\AppData\Local\Microsoft\WindowsApps;C:\Program Files\MongoDB\Server\5.0\bin;C:\Program Files\MongoDB\mongosh-2.0.1-win32-x64\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.2.4\bin;;C:\Program Files\Java\apache-maven-3.9.5\bin;C:\Program Files (x86)\Eclipse Adoptium\jdk-17.0.9.9-hotspot\bin;C:\Program Files (x86)\Eclipse Adoptium\jdk-11.0.21.9-hotspot\bin;C:\Users\slim97\AppData\Local\Programs\Microsoft VS Code\bin;;C:\Program Files\Azure Data Studio\bin;."/>
+    <property name="java.vm.info" value="mixed mode, emulated-client"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="17.0.9+9"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="greeterSaysHello" classname="hello.GreeterTest" time="0.008"/>
+</testsuite>
